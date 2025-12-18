@@ -1,3 +1,14 @@
+/*
+ * CS101 Final Exam - File 1: bmi_calculator.cpp
+ * The Logic Test: BMI calculator
+ *
+ * Student Name: Nathanael Hart
+ * Date: 12/18/2025
+ *
+
+
+
+    
 #include <iostream>
 using namespace std;
 
